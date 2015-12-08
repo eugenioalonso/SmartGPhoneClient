@@ -1,0 +1,2 @@
+# SmartGPhoneClient
+PhoneClient para SmartG
